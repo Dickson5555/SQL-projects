@@ -1,0 +1,101 @@
+customer_id,customer_name,segment
+1,Customer_1,Home Office
+2,Customer_2,Consumer
+3,Customer_3,Home Office
+4,Customer_4,Home Office
+5,Customer_5,Consumer
+6,Customer_6,Consumer
+7,Customer_7,Home Office
+8,Customer_8,Corporate
+9,Customer_9,Home Office
+10,Customer_10,Home Office
+11,Customer_11,Home Office
+12,Customer_12,Home Office
+13,Customer_13,Consumer
+14,Customer_14,Home Office
+15,Customer_15,Corporate
+16,Customer_16,Consumer
+17,Customer_17,Corporate
+18,Customer_18,Corporate
+19,Customer_19,Corporate
+20,Customer_20,Corporate
+21,Customer_21,Consumer
+22,Customer_22,Consumer
+23,Customer_23,Corporate
+24,Customer_24,Corporate
+25,Customer_25,Consumer
+26,Customer_26,Consumer
+27,Customer_27,Consumer
+28,Customer_28,Home Office
+29,Customer_29,Home Office
+30,Customer_30,Home Office
+31,Customer_31,Corporate
+32,Customer_32,Home Office
+33,Customer_33,Corporate
+34,Customer_34,Corporate
+35,Customer_35,Home Office
+36,Customer_36,Corporate
+37,Customer_37,Home Office
+38,Customer_38,Home Office
+39,Customer_39,Consumer
+40,Customer_40,Home Office
+41,Customer_41,Consumer
+42,Customer_42,Home Office
+43,Customer_43,Home Office
+44,Customer_44,Consumer
+45,Customer_45,Consumer
+46,Customer_46,Home Office
+47,Customer_47,Corporate
+48,Customer_48,Consumer
+49,Customer_49,Corporate
+50,Customer_50,Corporate
+51,Customer_51,Corporate
+52,Customer_52,Consumer
+53,Customer_53,Corporate
+54,Customer_54,Consumer
+55,Customer_55,Corporate
+56,Customer_56,Home Office
+57,Customer_57,Home Office
+58,Customer_58,Consumer
+59,Customer_59,Home Office
+60,Customer_60,Home Office
+61,Customer_61,Corporate
+62,Customer_62,Consumer
+63,Customer_63,Corporate
+64,Customer_64,Corporate
+65,Customer_65,Corporate
+66,Customer_66,Corporate
+67,Customer_67,Corporate
+68,Customer_68,Corporate
+69,Customer_69,Corporate
+70,Customer_70,Consumer
+71,Customer_71,Home Office
+72,Customer_72,Corporate
+73,Customer_73,Corporate
+74,Customer_74,Corporate
+75,Customer_75,Corporate
+76,Customer_76,Corporate
+77,Customer_77,Corporate
+78,Customer_78,Home Office
+79,Customer_79,Home Office
+80,Customer_80,Corporate
+81,Customer_81,Home Office
+82,Customer_82,Consumer
+83,Customer_83,Corporate
+84,Customer_84,Consumer
+85,Customer_85,Consumer
+86,Customer_86,Corporate
+87,Customer_87,Home Office
+88,Customer_88,Consumer
+89,Customer_89,Corporate
+90,Customer_90,Consumer
+91,Customer_91,Consumer
+92,Customer_92,Consumer
+93,Customer_93,Consumer
+94,Customer_94,Home Office
+95,Customer_95,Consumer
+96,Customer_96,Consumer
+97,Customer_97,Consumer
+98,Customer_98,Home Office
+99,Customer_99,Consumer
+100,Customer_100,Consumer
